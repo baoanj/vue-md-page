@@ -1,0 +1,17 @@
+{
+  "name": "vue-md-page",
+  "version": "0.0.1",
+  "description": "Generate pages from markdown files base on config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baoanj/vue-md-page"
+  },
+  "keywords": [
+    "markdown",
+    "generator"
+  ],
+  "postcss": {},
+  "author": "baoanj",
+  "license": "ISC"
+}
